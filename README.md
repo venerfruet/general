@@ -1,3 +1,3 @@
 # general
 ## JavaDoc
-https://venerfruet.github.io/generaljavadoc
+https://venerfruet.github.io/generaljavadoc2
